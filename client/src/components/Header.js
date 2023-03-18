@@ -53,7 +53,7 @@ const Header = () => {
           href="/"
           style={{ color: "#606080", fontWeight: "600", fontSize: "22px" }}
         >
-          Touropedia
+          Tourify
         </MDBNavbarBrand>
         <MDBNavbarToggler
           type="button"
