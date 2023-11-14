@@ -38,7 +38,6 @@ const MONGODB_URL =
 
 const port = 8000;
 
-//greAT12122000
 // mongodb+srv://codelikeme:<password>@cluster0.0lrgm2z.mongodb.net/?retryWrites=true&w=majority
 
 // app.get("/",(req,res) => {
